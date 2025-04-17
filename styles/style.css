@@ -22,7 +22,7 @@ main {
   position: relative;
 }
 
-#cellphone {
+section#cellphone {
   width: 311px;
   height: 627px;
   position: absolute;
@@ -31,4 +31,12 @@ main {
   transform: translate(-50%, -50%);
   background: url(/imagens/frame-iphone.png) no-repeat;
   border-radius: 50px;
+}
+
+iframe#tela {
+  position: relative;
+  top: 80px;
+  left: 22px;
+  height: 471px;
+  width: 267px;
 }
