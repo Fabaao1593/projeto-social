@@ -12,7 +12,7 @@ body {
 }
 
 body {
-  background: url(../imagens/fundo-madeira.jpg) no-repeat top center;
+  background: gray url(../imagens/fundo-madeira.jpg) no-repeat top center;
   background-size: cover;
   background-attachment: fixed;
 }
@@ -29,7 +29,7 @@ section#cellphone {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background: url(../imagens/frame-iphone.png) no-repeat;
+  background: gray url(../imagens/frame-iphone.png) no-repeat;
   border-radius: 50px;
 }
 
